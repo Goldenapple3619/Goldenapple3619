@@ -7,8 +7,8 @@
 ## About
 
 <div align="middle">
-    <pre>
+<pre>
 <b>Number one ego-programmer.</b>
-I rather write 100k lines of C than use a regular game-engine
-    </pre>
+I would rather write 100k lines of C than use a regular game engine
+</pre>
 </div>
